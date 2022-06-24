@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284183650990",
+    "project_id": "gpprofiler",
+    "storage_bucket": "gpprofiler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284183650990:android:96e13feaa967c87a03433f",
+        "android_client_info": {
+          "package_name": "com.kdah.gp_profile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284183650990-0rdcucio18jv9eqfckisp0kspjnbdffh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-farn3UO70RALeQNonhHneiTo3qgVELU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284183650990-0rdcucio18jv9eqfckisp0kspjnbdffh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
